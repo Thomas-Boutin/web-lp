@@ -12,3 +12,4 @@ Inside the [courses](./courses) folder
 - [Exercise 0: Preparation](./ex0)
 - [Exercise 1: Refactoring](./ex1)
 - [Exercise 2: Bootstrap Grid](./ex2)
+- [Exercise 3: Agile Delivery](./ex3)
