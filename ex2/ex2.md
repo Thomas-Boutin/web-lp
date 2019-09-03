@@ -38,7 +38,9 @@ Open the reopen po-portfolio folder
 ## Step 7
 
 - Create an index.scss file
-- Import the _variables.scss file inside it
+- Import the bootstrap.scss file inside it
+- This import has to remain at the end of the file
 - Override variables to increase the cards radius
 - Override variables to change the font size
 - Override variables to change the link colors
+- Import the resulting index.css file inside the index.html
