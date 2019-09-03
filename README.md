@@ -9,5 +9,6 @@ Inside the [courses](./courses) folder
 
 ## Exercises
 
+- [Exercise 0: Preparation](./ex0)
 - [Exercise 1: Refactoring](./ex1)
 - [Exercise 2: Bootstrap Grid](./ex2)
