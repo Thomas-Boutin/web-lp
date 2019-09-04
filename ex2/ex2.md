@@ -5,7 +5,7 @@
 
 ## Step 1
 
-Open the reopen po-portfolio folder
+Open the po-portfolio folder
 
 ## Step 2
 
