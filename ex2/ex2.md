@@ -33,7 +33,7 @@ Open the po-portfolio folder
 
 - Add a navigation menu
 - It has 2 destinations : the homepage and an about page
-- The menu needs to be displayed as a menu burger on smartphones
+- The menu needs to be displayed as a burger menu on smartphones
 
 ## Step 7
 
