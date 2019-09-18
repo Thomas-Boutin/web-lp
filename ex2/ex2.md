@@ -1,4 +1,4 @@
-# Exercise 1 : Refactoring
+# Exercise 2 : Bootstrap
 
 - This exercise will provide a basic bootstrap training.
 - This example comes from [ColorLib](https://colorlib.com)
