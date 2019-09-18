@@ -10,7 +10,7 @@ Open the reopen folder
 ## Step 2
 
 - Open the index.html file in your browser
-- Open the style.css file
+- Open the refactoring.css file
 
 ## Step 3
 
